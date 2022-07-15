@@ -1,3 +1,4 @@
+# This Project is based on the [zyt-snippet](https://github.com/sillybun/zyt-snippet)
 # zyt-snippet
 
 ## LaTeX snippet depends on vimtex
